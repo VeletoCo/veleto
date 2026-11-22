@@ -1,0 +1,194 @@
+{
+  "status": "Proposed strategy, prepared 21 November 2026. No supplier, manufacturing quotation, delivery date, or market demand has been verified. Prices are USD hypotheses, before tax and shipping.",
+  "brand": {
+    "name": "Veleto",
+    "collection": "The Thought Collection — Edition 001",
+    "positioning": "Veleto is a premium notebook designed to turn scattered thoughts into structured ideas.",
+    "tagline": "Where thoughts take shape.",
+    "story": "Some ideas arrive as sentences. Others arrive as a line, a question, or a feeling you cannot quite name. Veleto begins there. A quiet cover opens to a page with just enough structure to help you find your own. Dark color. A white line. A small daily ritual for making something of what is on your mind. Built around the notebook and its companion pen, Veleto gives unfinished thinking a place to become something.",
+    "mission": "Make room for intentional thinking through considered notebooks and simple writing rituals.",
+    "audience": "Primary hypothesis: designers, independent founders, architects, writers, and creative professionals who already use notebooks for ideation and care about desk objects. Secondary: thoughtful gift buyers. Validate behavior and willingness to pay rather than assuming an age or income predicts demand.",
+    "job": "When my ideas feel scattered, help me capture them and choose a next step in a space I want to return to.",
+    "voice": "Quiet, specific, inviting, and confident. Use short sentences and concrete sensory language. Invite a practice; do not promise productivity, mental-health benefits, or genius. Say ‘A little room to think.’ Avoid ‘Unlock limitless potential.’ Never invent provenance, sustainability, scarcity, or customer praise.",
+    "palette": [
+      {
+        "name": "Ink",
+        "hex": "#111212",
+        "role": "Primary canvas"
+      },
+      {
+        "name": "Still Black",
+        "hex": "#232424",
+        "role": "Black product and elevated surfaces"
+      },
+      {
+        "name": "Ember Maroon",
+        "hex": "#642735",
+        "role": "Maroon product and quiet accent"
+      },
+      {
+        "name": "Form Slate",
+        "hex": "#626A6C",
+        "role": "Slate product"
+      },
+      {
+        "name": "Chalk",
+        "hex": "#F1EEE8",
+        "role": "Primary text and white-ink motif"
+      },
+      {
+        "name": "Stone",
+        "hex": "#B8B5AE",
+        "role": "Secondary text"
+      },
+      {
+        "name": "Copper",
+        "hex": "#C7A48E",
+        "role": "Editorial highlight"
+      }
+    ],
+    "typography": "Cormorant Garamond Regular and Italic for expressive editorial headings; Manrope for body copy, navigation, labels, and the spaced uppercase wordmark. Both are already installed and served locally. Keep body copy at 16px or larger; avoid light small text. Font licenses are retained with the installed packages; include license copies with distributed font files.",
+    "taglines": [
+      "Where thoughts take shape.",
+      "A little room to think.",
+      "From a thought to something.",
+      "Make space. Make a mark.",
+      "Begin with a blank page."
+    ],
+    "collectionOptions": [
+      "The Thought Collection — selected launch name",
+      "Quiet Forms — possible future collection",
+      "The Daily Study — possible future edition"
+    ],
+    "direction": "Dark matte surfaces, tonal paper, generous negative space, restrained serif/sans contrast, and fine geometric white sketches. The notebooks remain blank outside. Use original artwork as example use, never as a promise of preprinted content. Product images are procedural concept renders, not physical samples."
+  },
+  "products": [
+    {
+      "id": "black",
+      "name": "Still",
+      "color": "Black",
+      "sku": "VEL-E01-STILL",
+      "notebookPrice": 19.99,
+      "penPriceMin": 6.99,
+      "penPriceMax": 8.99,
+      "bundlePriceMin": 24.99,
+      "bundlePriceMax": 27.99,
+      "description": "A quiet place for a busy mind. Still pairs a deep black cover with matching dark pages. Add an optional compatible white-ink companion pen. Sketch a direction, collect the loose ends, and leave with one next step. A study in contrast, made for your daily thinking ritual.",
+      "short": "For the thoughts that need a little quiet."
+    },
+    {
+      "id": "maroon",
+      "name": "Ember",
+      "color": "Maroon",
+      "sku": "VEL-E01-EMBER",
+      "notebookPrice": 19.99,
+      "penPriceMin": 6.99,
+      "penPriceMax": 8.99,
+      "bundlePriceMin": 24.99,
+      "bundlePriceMax": 27.99,
+      "description": "For ideas with a little warmth. Ember brings a rich maroon cover and tonal pages to your desk. Add an optional compatible white-ink companion pen. A place for first drafts, unexpected connections, and things worth returning to.",
+      "short": "A warm beginning for your next idea."
+    },
+    {
+      "id": "slate",
+      "name": "Form",
+      "color": "Slate",
+      "sku": "VEL-E01-FORM",
+      "notebookPrice": 19.99,
+      "penPriceMin": 6.99,
+      "penPriceMax": 8.99,
+      "bundlePriceMin": 24.99,
+      "bundlePriceMax": 27.99,
+      "description": "Room to find the shape of an idea. Form pairs a slate-gray cover with matching pages. Add an optional compatible white-ink companion pen. The restrained dot grid offers a starting point for diagrams, notes, and whatever takes shape next.",
+      "short": "A considered space for a fresh perspective."
+    }
+  ],
+  "commercial": {
+    "recommendation": "Validation hypotheses: notebook $19.99; optional matching pen $6.99 to $8.99; notebook + pen bundle $24.99 to $27.99. Before tax; confirm margin with supplier quotes.",
+    "bundles": [
+      {
+        "name": "Notebook",
+        "contents": "One notebook; proposed price US$19.99",
+        "price": 19.99
+      },
+      {
+        "name": "Optional matching pen",
+        "contents": "One compatible pen; proposed range US$6.99 to 8.99",
+        "priceMin": 6.99,
+        "priceMax": 8.99
+      },
+      {
+        "name": "Notebook + pen bundle",
+        "contents": "One notebook and one matching pen; proposed range US$24.99 to 27.99",
+        "priceMin": 24.99,
+        "priceMax": 27.99
+      }
+    ],
+    "benefits": [
+      "A deliberately simple page for capturing ideas without choosing a digital tool.",
+      "A tonal dot grid to guide diagrams, lists, or free sketching.",
+      "The notebook and compatible white-ink pen offered together to make the first use straightforward.",
+      "A repeatable capture → connect → choose ritual supplied on a removable card.",
+      "Three coherent colors without overwhelming the first assortment."
+    ],
+    "packaging": "Prototype a charcoal folded paperboard sleeve or book-wrap, a narrow pen compartment, and a single uncoated ritual card. Exterior: small chalk Veleto wordmark, tonal geometric line study, color-name label. Interior: ‘Make room for what is on your mind.’ Start with folded board rather than a custom magnetic box to reduce unverified tooling expense. Paper grades, coating, fit, recyclability, and shipping protection need supplier evidence and tests. The SVG mockup is visual only, not a dieline. Packaging target allowance in economics: US$1 per shipped order; an assumption to replace with supplier quotes.",
+    "benchmarks": [
+      {
+        "source": "Moleskine US Classic Notebook, SKU 8055002852944",
+        "url": "https://www.moleskine.com/en-us/shop/notebooks/the-original-notebook/classic-notebook-black-8055002852944.html",
+        "observation": "Official page displayed $25.00 when previously checked. One SKU/page state; ivory paper; not a direct equivalent or validation of Veleto's price."
+      },
+      {
+        "source": "Sakura of America — Gelly Roll White",
+        "url": "https://www.sakuraofamerica.com/product/gelly-roll-white/",
+        "observation": "Official page describes opaque white ink for dark and colored papers and multiple tip sizes. This supports testing the ink/paper pairing. It does not verify compatibility with Veleto, availability for private labeling, a supplier relationship, or the pictured pen design."
+      }
+    ]
+  },
+  "manufacturing": {
+    "status": "RFQ targets only. All dimensions, materials, tolerances, quantities, and test criteria must be agreed with the selected manufacturer after sampling.",
+    "requirements": [
+      "Quote an A5 closed format target, 148 × 210 mm; propose tolerances and achievable rounded-corner radius.",
+      "Quote 160 pages / 80 leaves in 120 and 140 gsm dyed-through stock. These are alternatives to sample, not fixed specifications. Assess thickness, opacity, drag, and binding together.",
+      "Provide separate Black, Maroon, and Slate paper and cover swatches. RGB/hex codes are digital references only; approve physical masters under daylight and warm indoor light.",
+      "Subtle 5 mm tonal dot grid; blank outside covers; no preprinted example sketches. Sample grid visibility against white ink.",
+      "Quote sewn, lay-flat binding and suitable alternatives; request construction cross-sections and a fully bound sample. No lay-flat claim until tested.",
+      "Matte cover material, rounded corners, matching ribbon, and color-coordinated page edges. Request rub and scuff tests; confirm material composition.",
+      "Source a reliable opaque white-ink pen and replacement supply. Test 0.5/0.8/1.0 mm ball options; ball diameter is not line width. Approve writing experience before approving barrel aesthetics.",
+      "Paperboard wrap with separate pen retention; quote plain packaging and branded packaging separately. Shipping mailer must protect corners and prevent ink contact.",
+      "Request itemized notebook unit costs at 25, 50, 100, and 300 notebooks per color, and matching pen unit costs and bundled kitting costs at the same quantities. Include MOQ per color, proof/setup charges, packaging, freight terms, and defect remedy.",
+      "Request traceable material declarations and certification evidence only for claims you intend to make. Do not label leather, recycled, archival, FSC, or eco-friendly without applicable evidence."
+    ],
+    "questions": [
+      "Are you the actual factory or a trading company, and who manufactures the paper and binding?",
+      "What is the MOQ for each cover color, paper color, and printed grid? Can colors share a combined order?",
+      "For quantities of 25, 50, 100, and 300, quote itemized per-unit prices for notebook only, pen only, and notebook + pen bundle. Show color-specific MOQs, packaging, setup/proof, sample, and tooling charges separately.",
+      "Can you provide dyed-through paper, rather than a dark surface coating that may scratch?",
+      "Which paper weights accept opaque white gel ink? Can you send unbound sheets before making books?",
+      "What binding achieves the opening we want at this page count, and what tradeoffs should we expect?",
+      "What are the costs and lead times for swatches, blank samples, printed samples, and a signed production sample?",
+      "How are production colors matched to approved physical masters, and what variation do you accept?",
+      "Can we source the pen separately and have you pack it? What incoming pen checks can you perform?",
+      "Who owns the artwork and tooling? Is any tooling fee reusable on future orders?",
+      "What does the quoted price include, which currency and Incoterm applies, and how long is the quote valid?",
+      "How do you inspect binding, print registration, paper count, stains, damaged corners, and pens?",
+      "May we arrange an independent pre-shipment inspection? How are failed goods repaired or replaced?",
+      "What deposit is required, when is the balance due, and what happens if the sample or inspection fails?",
+      "What are carton dimensions, gross weights, shipping options, and documents for our intended destination?",
+      "Which claims can you document for this exact material and order? Are the certificates current and applicable?",
+      "What are your realistic production and transit ranges after sample approval, including peak-season delays?",
+      "What shipping methods to the United States can you quote? For each, state origin, Incoterm, transit estimate, shipping and insurance charges, duties/tax responsibilities, carton dimensions/weight, and tracking. These are questions; no shipping rate is verified.",
+      "What is the sample production time, production lead time after signed sample approval, and estimated transit time to the US? What could delay each stage?",
+      "Which written QC checks, tolerances, defect classes, pre-shipment inspection options, and rework/replacement terms can you offer? Provide records for the quoted order."
+    ],
+    "sampleTests": [
+      "Write the same sentence and line grid with each candidate pen on all three papers. Photograph one-pass opacity and compare with two passes.",
+      "Perform fingertip smear checks after 5, 15, 30, and 60 seconds under recorded conditions. Proposed gate: legible, consistent writing with no visible transfer after 30 seconds in normal use; revise with users before production.",
+      "Test closed-page transfer after one minute, next-day transfer, back-of-page visibility, skipping after capped storage, and restart after a week.",
+      "Ask at least five users, including two left-handed writers, to write and sketch for 15 minutes; record hand transfer, readability, and friction.",
+      "Open each binding through 100 normal cycles; inspect hinge cracking, loose leaves, ribbon attachment, and how easily it stays open. This is an internal screening test, not a formal certification.",
+      "Carry a sample in a bag for a week; compare scuffing and corner wear. Test packed samples with ordinary courier handling before finalizing packaging.",
+      "Retain a signed ‘golden sample’ with approved paper, pen, cover, grid, packaging, and defect acceptance criteria before placing inventory."
+    ]
+  }
+}

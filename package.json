@@ -1,0 +1,24 @@
+{
+  "name": "veleto-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node tests/verify.mjs",
+    "assets": "node scripts/render-assets.mjs",
+    "kit": "node scripts/build-launch-kit.mjs",
+    "test:launch": "node tests/launch-kit.mjs"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.2.8",
+    "@fontsource-variable/manrope": "^5.2.8",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "vite": "^7.2.2"
+  }
+}

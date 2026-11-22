@@ -1,0 +1,285 @@
+{
+  "funnel": {
+    "path": "Relevant short video or founder conversation \u2192 collection page \u2192 shade selection \u2192 confirmed email signup \u2192 short research survey \u2192 sample evidence \u2192 invitation to order only after readiness gates pass.",
+    "landingCopy": {
+      "eyebrow": "BE PART OF THE FIRST CHAPTER",
+      "headline": "Your next idea starts here.",
+      "body": "Meet The Thought Collection. Three considered colors, a companion white-ink pen, and a little room to think. Join for first looks, notes from the studio, and an invitation when Veleto is ready.",
+      "cta": "Join the waitlist",
+      "reassurance": "No payment. No reservation. An invitation when we are ready.",
+      "availability": "The collection is in development. Final specifications, price, shipping regions, and launch timing will be confirmed before orders open."
+    },
+    "formCopy": {
+      "emailLabel": "Email address",
+      "placeholder": "Your email address",
+      "colorLabel": "Your shade (optional)",
+      "options": [
+        "Still / Black",
+        "Ember / Maroon",
+        "Form / Slate",
+        "Still deciding"
+      ],
+      "consent": "Send me Veleto studio notes and launch news. Unsubscribe at any time. Read our Privacy Notice.",
+      "pending": "Saving your place\u2026",
+      "confirmation": "Check your inbox to confirm your email. You will join the list after confirmation.",
+      "confirmed": "You are on the list. We will be in touch when there is something worth sharing.",
+      "error": "We could not save your signup. Please try again.",
+      "localDemo": "Demo complete. Your email was not sent or saved, and you have not been subscribed.",
+      "gate": "Consent, unsubscribe, privacy-contact details, and confirmation wording must match the actual provider and process. The local site intentionally uses the demo copy, not the live success copy."
+    },
+    "welcome": {
+      "timing": "Immediately after confirmed subscription; do not send before consent/confirmation",
+      "subject": "A little room for what is next.",
+      "preheader": "Welcome to the first chapter of Veleto.",
+      "body": "Hello,\n\nThank you for joining Veleto. We are creating a premium notebook designed to turn scattered thoughts into structured ideas.\n\nThe Thought Collection begins with three shades: Still Black, Ember Maroon, and Form Slate. A notebook, a companion white-ink pen, and one simple ritual: capture, connect, choose.\n\nThe collection is still in development. We will share real sample progress and confirm the details before inviting you to order. Joining the list does not reserve a notebook or take a payment.\n\nFor now, one question: what would you put on your first page? Reply and tell us.\n\n[Founder name]\nVeleto\n\n[Privacy link] \u00b7 [Unsubscribe link] \u00b7 [Required sender details]"
+    },
+    "launchEmails": [
+      {
+        "timing": "Five days before a genuinely confirmed order-opening date",
+        "subject": "Meet the three shades of thought.",
+        "preheader": "Still. Ember. Form. Find your starting point.",
+        "body": "Hello,\n\nStill Black for a little quiet. Ember Maroon for a warm beginning. Form Slate for a fresh perspective.\n\nThe Thought Collection opens on [APPROVED DATE AND TIME ZONE]. Each Ritual Set includes [CONFIRMED NOTEBOOK SPEC], [CONFIRMED PEN], and a small writing-ritual card.\n\nWe have now tested [ACTUAL TEST SUMMARY]. See the real sample photographs and the details here: [PRODUCT PAGE].\n\nSets are [APPROVED PRICE/CURRENCY]. [TAX AND SHIPPING DETAILS]. This release is [IN STOCK / PREORDER], with [CONFIRMED SHIP WINDOW].\n\nTake a look and find the shade you would return to.\n\n[Founder]\n[Privacy link] \u00b7 [Unsubscribe link] \u00b7 [Required sender details]"
+      },
+      {
+        "timing": "When checkout is verified and orders genuinely open",
+        "subject": "The first chapter is open.",
+        "preheader": "Your invitation to The Thought Collection.",
+        "body": "Hello,\n\nThe Thought Collection is now available to [ORDER / PREORDER]. Choose Still Black, Ember Maroon, or Form Slate.\n\nYour Ritual Set includes [APPROVED CONTENTS] for [APPROVED PRICE/CURRENCY]. [TAX AND SHIPPING DETAILS]. We currently deliver to [REGIONS], with [CONFIRMED DISPATCH OR PREORDER WINDOW].\n\n[IF PREORDER: This is a preorder. Payment is taken [WHEN]. Read the delivery estimate, cancellation terms, and what happens if timing changes before ordering: [POLICY URL].]\n\nFind your shade: [LIVE CHECKOUT / PRODUCT URL]\n\nThank you for helping this small idea become an object.\n\n[Founder]\n[Privacy link] \u00b7 [Unsubscribe link] \u00b7 [Required sender details]"
+      },
+      {
+        "timing": "Three days after orders open; suppress purchasers and unsubscribers",
+        "subject": "What belongs on your first page?",
+        "preheader": "A simple way to begin with Veleto.",
+        "body": "Hello,\n\nA first page does not have to be a perfect page.\n\nCapture three things on your mind. Connect two that belong together. Choose one small next step. That is the ritual behind Veleto.\n\nIf you are still considering a notebook, you can compare the three colors and read the paper, pen, price, and delivery details here: [PRODUCT PAGE].\n\nIf something is unclear, reply. We would rather help you decide than rush you.\n\n[Founder]\n[Privacy link] \u00b7 [Unsubscribe link] \u00b7 [Required sender details]"
+      }
+    ],
+    "preorder": [
+      "Stage one is a free waitlist with no reservation or implied supply guarantee. Learn about use cases, colors, and price objections before requesting payment.",
+      "Do not accept paid preorders until a full production-equivalent sample is approved, ink and paper pass testing, the factory confirms capacity and MOQ, and freight/fulfillment costs are written down.",
+      "Choose one initial shipping region, provisionally the contiguous US for modeling. Validate that region with the founder and interviews; do not imply worldwide shipping.",
+      "Write an explicit preorder product page: price/currency, contents, approved specifications, payment timing, estimated ship window, tax/shipping treatment, cancellations/refunds, support contact, and delay-update process. Review it for the markets you will serve before taking money.",
+      "Prefer an in-stock pilot if cash allows. If using preorders, cap orders to documented capacity, include a realistic buffer in the delivery window, and retain enough accessible cash for refunds. A waitlist count is not working capital.",
+      "Invite the earliest confirmed subscribers first without inventing a sellout, deadline, or limited allocation. Explain any real cap and its reason.",
+      "Send status updates at the promised cadence, including when nothing has changed. Do not launch on day 30 merely because a calendar ends."
+    ],
+    "survey": [
+      "Tell us about the last time you used a notebook.",
+      "How much do you like this design? Rate 1 to 5 and explain.",
+      "Which color do you prefer: Black, Maroon, Slate, or none?",
+      "At $19.99, would you buy the notebook? Why?",
+      "Would you buy the optional pen at $6.99, $7.99, or $8.99? Answer for each.",
+      "Would you buy a bundle at $24.99, $26.49, or $27.99? Answer for each.",
+      "What would stop you from buying?",
+      "What features do you expect from a premium notebook? Which three matter most?",
+      "How do you use notebooks today and what did your last one cost?",
+      "What else would you need to know before buying?"
+    ],
+    "firstWeek": [
+      [
+        "Day 1",
+        "Approve one audience hypothesis and two hero messages: \u2018Where thoughts take shape\u2019 and \u2018A little room to think.\u2019 Record decisions in a simple sheet."
+      ],
+      [
+        "Day 2",
+        "Run two five-second tests: ask visitors what the product is, what comes with it, and what the next step does. Fix misunderstandings before buying traffic."
+      ],
+      [
+        "Day 3",
+        "Conduct five interviews about recent notebook use; collect objections before explaining the brand. Avoid only interviewing friends who want to be supportive."
+      ],
+      [
+        "Day 4",
+        "Test the signup pipeline if connected: valid/invalid/duplicate addresses, confirmation, provider error, mobile keyboard, unsubscribe, and deletion workflow. Do not count demo submissions."
+      ],
+      [
+        "Day 5",
+        "Share two distinct creative hooks with relevant communities where welcome. Use UTM source/medium/campaign labels on a public page; do not send local URLs to outside customers."
+      ],
+      [
+        "Day 6",
+        "Interview ten participants about notebook use and show updated prices: notebook US$19.99; pen US$6.99 to 8.99; bundle US$24.99 to 27.99. Ask preference and reasons; answers are not proof of sales."
+      ],
+      [
+        "Day 7",
+        "Review evidence. Planning gate: at least 100 qualified visits, 10 confirmed signups, five completed interviews, and a clear account of the top three objections. These are internal targets, not industry benchmarks or proof of demand. If traffic is too small, extend the test; if comprehension is weak, revise copy; if ink concerns dominate, prioritize samples."
+      ]
+    ],
+    "measurement": "A qualified visitor is a person in the intended market with a relevant notebook use case, excluding the founder, bots, and QA traffic. Track page visits, collection selection, CTA clicks, confirmed signup, survey completion, and eventual paid order separately. Signup rate = confirmed unique signups / qualified unique visitors. Track UTM sources without putting email addresses in URLs. Paid CAC = spend / attributed first orders; cost per lead is not CAC. Analytics and email are not connected in the local prototype.",
+    "interview": "Tell me about your last notebook use. What were you trying to do? What do you use now? What works or frustrates you? [Show concept without explanation.] What do you notice? Which color? What features do you expect from a premium notebook? Would you buy the notebook for $19.99? Optional pen for $6.99, $7.99, or $8.99? Bundle for $24.99, $26.49, or $27.99? Why? What would stop you? What did I miss? Research only; record behavior and objections, not compliments alone.",
+    "socialPost": "I am validating an early Veleto notebook concept in Black, Maroon, and Slate. Would you take a short survey about the design and proposed prices: notebook $19.99; optional pen $6.99 to $8.99; bundle $24.99 to $27.99? Research only; no orders or payments. Specifications remain assumptions. Survey: [LINK].",
+    "confirmation": "Waitlist demo: your email was not sent or saved, and you were not added to a list. No email provider is configured; we cannot contact you from this form.",
+    "supplierEmail": "Subject: Sample and quotation inquiry - Veleto notebook concept\n\nHello,\n\nPlease review the attached proposed brief for Veleto notebooks in Black, Maroon, and Slate. Quote samples and itemized notebook, pen, bundle/kitting, packaging, and US shipping for 25, 50, 100, and 300 units. State color MOQs, setup/sample fees, shipping terms, production/transit times, payment terms, QC checks, tolerances, and defect remedies.\n\nDimensions and materials are unapproved assumptions. This is an inquiry, not an order. Do not begin production or brand samples.\n\n[Founder name] / [Contact email] / [US ZIP for freight estimate]"
+  },
+  "plan": {
+    "today": [
+      "Review the working storefront and the launch kit; approve Veleto spelling, collection names, voice, colors, and the updated notebook, pen, and bundle price hypotheses.",
+      "Make a shortlist of ten people with a real notebook habit and invite five research conversations personally.",
+      "Use the supplied RFQ draft to compare three candidate manufacturers after checking who they are. No supplier has been contacted by this project.",
+      "Set a validation spending ceiling; start with a small sample scope instead of committing to inventory.",
+      "Choose the first delivery region and a sender/support address, then select the email service and hosting route when ready to publish."
+    ],
+    "supplier": [
+      "Achievable dyed-through paper colors and weights, MOQ per color, binding method, grid production, cover composition, itemized quote, freight terms, lead times, and defect remedies.",
+      "A compatible pen with reliable replenishment, actual barrel appearance, testable ink, and permission for any proposed branding.",
+      "Manufacturable packaging dimensions and dielines; the supplied SVG is only a visual concept."
+    ],
+    "physicalSamples": [
+      "Paper feel and white-ink opacity, dry time, left-handed smudging, closed-page transfer, and pen restart reliability.",
+      "Binding behavior, actual color matching, durability, ribbon attachment, page count, and package protection.",
+      "True product photographs, sound recordings, creator sample content, and final claims."
+    ],
+    "validateBeforeInventory": [
+      "People understand that this is dark paper requiring a suitable pen, and see a reason to use it repeatedly.",
+      "The target price survives actual comparison with existing notebook habits; compliments and color votes alone are insufficient.",
+      "Enough demand exists for each color to justify its MOQ. Keep all three in the concept, but negotiate or adjust the initial batch if one color is weak.",
+      "Sample quality is repeatable, the landed cost is known, and contribution remains positive after fees, fulfillment, refunds, shipping, and acquisition.",
+      "The brand/domain can be used, the signup and support processes work, and the founder has approved policies for the actual selling markets."
+    ],
+    "costAssumptions": "USD assumptions for planning only. Supplier target ceilings: notebook $5, pen $1.50, bundle goods $6.50. Packaging $1/order; inbound freight $1/unit; pick/pack $1.50/order; payment fee 3% + $0.30; refund reserve 3%; shipping estimated $5/order. No supplier/payment/carrier quote verified.",
+    "validationCosts": [
+      [
+        "Samples",
+        150,
+        350
+      ],
+      [
+        "Sample freight",
+        50,
+        150
+      ],
+      [
+        "Interview incentives",
+        50,
+        150
+      ],
+      [
+        "Test materials/contingency",
+        50,
+        150
+      ]
+    ],
+    "pilotCosts": [],
+    "unitEconomics": {
+      "notebookRetail": 19.99,
+      "penRetailMin": 6.99,
+      "penRetailMax": 8.99,
+      "bundleRetailMin": 24.99,
+      "bundleRetailMax": 27.99,
+      "notebookSupplierTarget": 5,
+      "penSupplierTarget": 1.5,
+      "bundleSupplierTarget": 6.5,
+      "packagingPerOrder": 1,
+      "inboundFreightPerUnit": 1,
+      "pickPackPerOrder": 1.5,
+      "feeRateAssumption": 0.03,
+      "feeFixedAssumption": 0.3,
+      "shippingCustomerPaidAssumption": 5,
+      "shippingFreeAssumption": 5,
+      "refundReserveRate": 0.03,
+      "validationBudgetLow": 300,
+      "validationBudgetHigh": 800,
+      "explanation": "All estimates, not quotes. One bundle midpoint $26.49/order. Goods targets: notebook $5 + pen $1.50. Packaging $1, inbound freight $1, pick/pack $1.50, fee assumption 3%+$0.30, refund reserve 3%, outbound shipping assumption $5. Customer-paid scenario assumes postage charged separately at $5 and carrier cost $5 (net zero). Free shipping deducts $5/order. Gross profit/margin deduct supplier goods only; contribution additionally subtracts packaging, inbound, fulfillment, payment fee, reserve and shipping. Excludes CAC, tax, setup/sample costs and unsold inventory.",
+      "pilotTable": [
+        [
+          25,
+          "$162.50",
+          "$662.25",
+          "$499.75",
+          "75.5%",
+          "$365.01",
+          "$240.01"
+        ],
+        [
+          50,
+          "$325.00",
+          "$1324.50",
+          "$999.50",
+          "75.5%",
+          "$730.03",
+          "$480.03"
+        ],
+        [
+          100,
+          "$650.00",
+          "$2649.00",
+          "$1999.00",
+          "75.5%",
+          "$1460.06",
+          "$960.06"
+        ],
+        [
+          300,
+          "$1950.00",
+          "$7947.00",
+          "$5997.00",
+          "75.5%",
+          "$4380.18",
+          "$2880.18"
+        ]
+      ]
+    },
+    "budgetDecision": "Validation budget assumption: $300 to $800. Estimates only; approve a cap and get sample/shipping quotes.",
+    "acquisition": "Start with interviews and unpaid permission-based research. Treat the budget scenarios as caps for planning, not spending instructions. Waitlist signups and stated price interest are not paid orders or proven demand.",
+    "thirtyDay": [
+      [
+        "Days 1\u20133",
+        "Approve brand and audience; inspect prototype; invite interview participants",
+        "Approved direction and five booked conversations",
+        "Founder; can start today"
+      ],
+      [
+        "Days 4\u20137",
+        "Interview, test comprehension, collect color preferences, issue RFQs",
+        "Interview notes, objections, comparable RFQ responses",
+        "Supplier replies may take longer"
+      ],
+      [
+        "Days 8\u201310",
+        "Connect real signup, add actual privacy/support details, verify confirmation and unsubscribe",
+        "A tested public validation funnel",
+        "Requires selected provider, hosting, and founder details"
+      ],
+      [
+        "Days 11\u201314",
+        "Run price/format interviews and publish labeled concept creative",
+        "Evidence log and a sample-spend decision",
+        "No invented launch date"
+      ],
+      [
+        "Days 15\u201318",
+        "Order approved samples; compare costs and MOQ per color",
+        "Paid sample scope and expected arrival dates",
+        "Requires founder spend approval and supplier quote"
+      ],
+      [
+        "Days 19\u201323",
+        "Test samples if they arrive; otherwise continue research and report the delay",
+        "Written sample findings or a revised schedule",
+        "Do not assume custom samples arrive inside 30 days"
+      ],
+      [
+        "Days 24\u201327",
+        "Revise product, price, packaging, and messaging; obtain fulfillment estimates",
+        "Updated economics and product requirements",
+        "Depends on actual samples and quotes"
+      ],
+      [
+        "Days 28\u201330",
+        "Review readiness and choose next step: revise, continue sampling, or prepare orders",
+        "Decision record and honest update to subscribers",
+        "Paid launch only if every readiness gate passes"
+      ]
+    ],
+    "approvals": [
+      "Approve Veleto name, Still/Black, Ember/Maroon, Form/Slate, color references, and tagline; check name/domain availability before packaging spend.",
+      "Approve notebook US$19.99, optional pen US$6.99\u2013$8.99, bundle US$24.99\u2013$27.99 as validation hypotheses.",
+      "Approve assumptions for A5 format, 160 pages, paper, cover, finish, and ribbon before requesting samples.",
+      "Approve the supplier brief, sample scope, and a validation budget ceiling of US$300\u2013$800.",
+      "Approve a physical sample in each color and test pen/paper compatibility before an inventory order.",
+      "Choose shipping destination, brand/contact details, and obtain written quotes for samples, production, and US shipping.",
+      "Keep waitlist labeled demo until an email provider is deliberately configured and signup persistence is verified.",
+      "No payment or checkout functionality; approve any later commercial launch separately after samples, costs, policies, and fulfillment are established.",
+      "Approve only after comparison of written quotes at 25, 50, 100, and 300 units, including per-color MOQs, packaging, and delivery to the selected US ZIP."
+    ]
+  }
+}

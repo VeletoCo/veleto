@@ -1,0 +1,29 @@
+INITIAL REPOSITORY INSPECTION — 21 NOVEMBER 2026
+
+The project was not empty. It contained a Vite 7 application using vanilla
+JavaScript and CSS, Three.js 0.180, locally installed Manrope and Cormorant
+Garamond fonts, and Playwright browser tooling.
+
+Existing entry points: index.html, src/main.js, src/style.css.
+Existing interactive modules: src/model.js, src/drawing.js, src/email.js.
+Existing assets: 18 procedural notebook/pen PNG renders and an SVG favicon.
+Existing verification: tests/verify.mjs, scripts/browser.mjs,
+scripts/quality.mjs, and prior screenshots.
+node_modules and a previous dist build were already present.
+
+The initial design used a light cream surface and the spelling VELOTO.
+It already supported 3D opening, page turns, color changes, drawing,
+static fallback, a guided product tour, and a demo interest form.
+It did not contain a business launch kit, actual email collection,
+checkout, supplier quotes, or verified physical product specifications.
+
+The existing framework and useful interactions were retained. The active
+visual stylesheet is now src/atelier.css. src/style.css remains as the
+original, unused stylesheet. No dependency installation was needed.
+The supplied notebook reference informed the dark palette, matching
+paper colors, restrained covers, geometric sketches, and white pen.
+
+The project folder has no project-local .git directory. A parent-level
+Git repository was detected; it was not modified or used for commits.
+An existing Vite server on 127.0.0.1:5173 was reused after verifying that
+it served this project's updated index.html. No unrelated process was stopped.

@@ -1,0 +1,28 @@
+{
+  "passed": 22,
+  "checks": [
+    "Desktop layout and original model load",
+    "black: selection synchronizes, closed and open",
+    "maroon: selection synchronizes, closed and open",
+    "slate: selection synchronizes, closed and open",
+    "Color changes preserve open state, spread, and zoom",
+    "Rapid page turns, unavailable controls, and closing mid-turn",
+    "Zoom, reset, drag, and keyboard rotation",
+    "Ordinary wheel scrolling over the model does not zoom",
+    "All four guided steps, pen inspection, and exit",
+    "Static fallback retains color and turns through sample spreads",
+    "Collection choice and session persistence",
+    "Digital drawing, responsive resize, cancellation, and clearing",
+    "Ink demo play, pause, replay",
+    "Form validation, pending state, honest demo, and no transmission",
+    "Privacy dialog keyboard focus, Escape, and focus return",
+    "Mobile layouts and all colors closed/open",
+    "Touch drawing, pointer cancellation, and mobile full page",
+    "Reduced motion preserves open, color, and static controls",
+    "Unavailable graphics gracefully uses static gallery",
+    "Graphics context loss switches to the selected static view",
+    "Small phone and tablet have no horizontal overflow",
+    "No application console or page errors"
+  ],
+  "errors": []
+}

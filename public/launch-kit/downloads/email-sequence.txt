@@ -1,0 +1,81 @@
+DRAFTS — replace placeholders and verify release gates before sending.
+
+SEND GATE: Immediately after confirmed subscription; do not send before consent/confirmation
+SUBJECT: A little room for what is next.
+PREHEADER: Welcome to the first chapter of Veleto.
+
+Hello,
+
+Thank you for joining Veleto. We are creating a premium notebook designed to turn scattered thoughts into structured ideas.
+
+The Thought Collection begins with three shades: Still Black, Ember Maroon, and Form Slate. A notebook, a companion white-ink pen, and one simple ritual: capture, connect, choose.
+
+The collection is still in development. We will share real sample progress and confirm the details before inviting you to order. Joining the list does not reserve a notebook or take a payment.
+
+For now, one question: what would you put on your first page? Reply and tell us.
+
+[Founder name]
+Veleto
+
+[Privacy link] · [Unsubscribe link] · [Required sender details]
+
+----------------------------------------
+
+SEND GATE: Five days before a genuinely confirmed order-opening date
+SUBJECT: Meet the three shades of thought.
+PREHEADER: Still. Ember. Form. Find your starting point.
+
+Hello,
+
+Still Black for a little quiet. Ember Maroon for a warm beginning. Form Slate for a fresh perspective.
+
+The Thought Collection opens on [APPROVED DATE AND TIME ZONE]. Each Ritual Set includes [CONFIRMED NOTEBOOK SPEC], [CONFIRMED PEN], and a small writing-ritual card.
+
+We have now tested [ACTUAL TEST SUMMARY]. See the real sample photographs and the details here: [PRODUCT PAGE].
+
+Sets are [APPROVED PRICE/CURRENCY]. [TAX AND SHIPPING DETAILS]. This release is [IN STOCK / PREORDER], with [CONFIRMED SHIP WINDOW].
+
+Take a look and find the shade you would return to.
+
+[Founder]
+[Privacy link] · [Unsubscribe link] · [Required sender details]
+
+----------------------------------------
+
+SEND GATE: When checkout is verified and orders genuinely open
+SUBJECT: The first chapter is open.
+PREHEADER: Your invitation to The Thought Collection.
+
+Hello,
+
+The Thought Collection is now available to [ORDER / PREORDER]. Choose Still Black, Ember Maroon, or Form Slate.
+
+Your Ritual Set includes [APPROVED CONTENTS] for [APPROVED PRICE/CURRENCY]. [TAX AND SHIPPING DETAILS]. We currently deliver to [REGIONS], with [CONFIRMED DISPATCH OR PREORDER WINDOW].
+
+[IF PREORDER: This is a preorder. Payment is taken [WHEN]. Read the delivery estimate, cancellation terms, and what happens if timing changes before ordering: [POLICY URL].]
+
+Find your shade: [LIVE CHECKOUT / PRODUCT URL]
+
+Thank you for helping this small idea become an object.
+
+[Founder]
+[Privacy link] · [Unsubscribe link] · [Required sender details]
+
+----------------------------------------
+
+SEND GATE: Three days after orders open; suppress purchasers and unsubscribers
+SUBJECT: What belongs on your first page?
+PREHEADER: A simple way to begin with Veleto.
+
+Hello,
+
+A first page does not have to be a perfect page.
+
+Capture three things on your mind. Connect two that belong together. Choose one small next step. That is the ritual behind Veleto.
+
+If you are still considering a notebook, you can compare the three colors and read the paper, pen, price, and delivery details here: [PRODUCT PAGE].
+
+If something is unclear, reply. We would rather help you decide than rush you.
+
+[Founder]
+[Privacy link] · [Unsubscribe link] · [Required sender details]
